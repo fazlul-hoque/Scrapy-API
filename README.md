@@ -1,3 +1,3 @@
 # Technology:
 
-Scrapy | AP | Json | POST Method | GET Method | BeautifulSoup | urlencode
+Scrapy | API | Json | POST Method | GET Method | BeautifulSoup | urlencode
