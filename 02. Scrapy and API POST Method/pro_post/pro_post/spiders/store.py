@@ -5,7 +5,7 @@
 
 import scrapy
 import json
-from scrapy.loader import ItemLoader
+
 
 class StoresSpider(scrapy.Spider):
     name = 'stores'
