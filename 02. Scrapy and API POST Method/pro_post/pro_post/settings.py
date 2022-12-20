@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'pro_post.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0'
+#USER_AGENT = 'Mozilla/5.0'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
